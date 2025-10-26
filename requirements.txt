@@ -1,0 +1,8 @@
+pytest
+coverage
+pytest-mock
+coverage-badge
+coverage
+pandas
+numpy
+lxml
